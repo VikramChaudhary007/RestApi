@@ -1,4 +1,3 @@
-# RestApi
 
 # Spring Boot REST API (Hello World)
 📌 Overview
